@@ -17,7 +17,7 @@ This repository implements a high-performance deep learning pipeline for the aut
 - **Integration Ready:** Standardized JSON response formats for easy consumption by frontend medical dashboards.
 ### 📂 Dataset
 Since the dataset is large, it is hosted on Google Drive. Please download it and update the `source_dir` path in `split_data.py` to point to your local folder.
-**[Download Dataset Here]** : (https://drive.google.com/file/d/1Vg9nl-QfaPe3ByTL-exn_noONkeqelU3/view?usp=drive_link)
+**[Download Dataset Here]** : (https://drive.google.com/file/d/1Vg9nl-QfaPe3ByTL-exn_noONkeqelU3/view?usp=sharing)
 
 
 
@@ -42,5 +42,4 @@ Since the dataset is large, it is hosted on Google Drive. Please download it and
 
 ### 📂 مجموعه داده‌ها (Dataset)
 به دلیل حجم بالای داده‌ها، دیتابیس در گوگل درایو قرار گرفته است. لطفاً برای اجرای پروژه، ابتدا دیتابیس را دانلود کرده و آدرس `source_dir` را در فایل `split_data.py` مطابق با مسیر سیستم خودتان تغییر دهید.
-**[دانلود دیتابیس از اینجا]**:(https://drive.google.com/file/d/1Vg9nl-QfaPe3ByTL-exn_noONkeqelU3/view?usp=drive_link)
-
+**[دانلود دیتابیس از اینجا]**:(https://drive.google.com/file/d/1Vg9nl-QfaPe3ByTL-exn_noONkeqelU3/view?usp=sharing)
