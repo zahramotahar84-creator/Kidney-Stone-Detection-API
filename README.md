@@ -15,6 +15,11 @@ This repository implements a high-performance deep learning pipeline for the aut
 - **API Efficiency:** Implemented optimized inference endpoints for real-time diagnostic support.
 - **Scalability:** Designed the API to handle multiple concurrent requests via asynchronous endpoints.
 - **Integration Ready:** Standardized JSON response formats for easy consumption by frontend medical dashboards.
+### 📂 Dataset
+Since the dataset is large, it is hosted on Google Drive. Please download it and update the `source_dir` path in `split_data.py` to point to your local folder.
+**[Download Dataset Here]** : (https://drive.google.com/file/d/1Vg9nl-QfaPe3ByTL-exn_noONkeqelU3/view?usp=drive_link)
+
+
 
 
 # 💎 سیستم جامع تشخیص سنگ کلیه و API مقیاس‌پذیر 
@@ -34,4 +39,8 @@ This repository implements a high-performance deep learning pipeline for the aut
 - **مقیاس‌پذیری:** قابلیت پشتیبانی از درخواست‌های همزمان متعدد به دلیل ماهیت Async در FastAPI. 
 
 هوش مصنوعی: - **یکپارچگی:** استفاده از فرمت استاندارد JSON برای تبادل داده با داشبورد‌های مدیریتی و رابط‌های کاربری
+
+### 📂 مجموعه داده‌ها (Dataset)
+به دلیل حجم بالای داده‌ها، دیتابیس در گوگل درایو قرار گرفته است. لطفاً برای اجرای پروژه، ابتدا دیتابیس را دانلود کرده و آدرس `source_dir` را در فایل `split_data.py` مطابق با مسیر سیستم خودتان تغییر دهید.
+**[دانلود دیتابیس از اینجا]**:(https://drive.google.com/file/d/1Vg9nl-QfaPe3ByTL-exn_noONkeqelU3/view?usp=drive_link)
 
